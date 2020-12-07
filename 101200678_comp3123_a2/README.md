@@ -2,4 +2,4 @@
 
 Weather App shows realtime weather data of Toronto, Canada. Below is the output of this app:
 
-https://user-images.githubusercontent.com/15815335/101309056-67199600-3819-11eb-83eb-2873b98ee392.PNG
+![screenshot](https://user-images.githubusercontent.com/15815335/101309351-39811c80-381a-11eb-88c8-ff38eed60dbc.PNG)
